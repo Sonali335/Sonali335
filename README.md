@@ -17,7 +17,7 @@ Passionate about building scalable web applications, cloud-based solutions, and 
 
 
 
-# 🌐 Socials
+# 🌐 Social Media
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonali2001dec@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonali-1578a91a5/)
